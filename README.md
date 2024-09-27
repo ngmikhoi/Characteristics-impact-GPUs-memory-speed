@@ -1,0 +1,1 @@
+# Characteristics-impact-GPUs-memory-speed
