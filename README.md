@@ -2,7 +2,6 @@
 
 ## The Impact of GPU's Characteristics on its Memory Speed
 
-### University Information
 **University:** Vietnam National University, Ho Chi Minh City  
 **Faculty:** Faculty of Applied Science  
 **Course:** Probability and Statistics (MT2013)  
